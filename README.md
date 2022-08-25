@@ -1,4 +1,5 @@
-Map my_info = {
+void main() {
+  Map my_info = {
     "first_name": "Mohammed",
     "last_name": "Taha",
     "age": 27,
@@ -9,5 +10,6 @@ Map my_info = {
       "faculty": "mining engineering",
       "year of graduation": 2017
     }
-    print(my_info);
   };
+  print(my_info);
+}
